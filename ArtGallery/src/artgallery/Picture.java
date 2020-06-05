@@ -6,10 +6,7 @@ package artgallery;
 
 import java.io.Serializable;
 import java.util.Scanner;
-/**
- *
- * @author Rubén Matías Alonso Soler
- */
+
 public class Picture implements Serializable {
     private int code;
     private String title;
